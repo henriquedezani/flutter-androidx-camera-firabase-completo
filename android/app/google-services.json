@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "549336992554",
-    "firebase_url": "https://teguiotea.firebaseio.com",
-    "project_id": "teguiotea",
-    "storage_bucket": "teguiotea.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:549336992554:android:fa1dd70fe82b468bbeac53",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.example.teguiotea"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "549336992554-a57rm1u42jgdfitdo2os09od1iv8fe4k.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "",
+          "client_type": 
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAOwMdfP-0lqblD3l_TzdTRtKKZLBBhiCc"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "549336992554-a57rm1u42jgdfitdo2os09od1iv8fe4k.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
